@@ -1,2 +1,7 @@
 
 git add . add all the changes to the staging area 
+git add . add all the changes to the staging area 
+git add . add all the changes to the staging area 
+git add . add all the changes to the staging area 
+git add . add all the changes to the staging area 
+git add . add all the changes to the staging area 
