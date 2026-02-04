@@ -1,0 +1,3 @@
+adding text for merging
+
+git add . add all the changes to the staging area 
