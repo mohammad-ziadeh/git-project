@@ -1,0 +1,11 @@
+
+
+git add . add all the changes to the staging area 
+git add . add all the changes to the staging area 
+git add . add all the changes to the staging area 
+git add . add all the changes to the staging area 
+git add . add all the changes to the staging area 
+git add . add all the changes to the staging area 
+new change from mohammad
+new change from mohammad
+
